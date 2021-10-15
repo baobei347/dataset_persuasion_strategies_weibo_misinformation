@@ -1,4 +1,4 @@
-# dataset about persuasion strategies of weibo misinformation
+# Persuasion Strategies of social media Misinformation (PSM)
 
 If you want to use this dataset, please cite the following paper:
 
